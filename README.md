@@ -7,5 +7,5 @@ A back-end E-Commerce application that allows a user to get request various cate
 ## Demo
 
 Link to the demo through google drive:
-
+https://drive.google.com/file/d/1hpPN-K9anNNWhg0MfoeV9ullfvXdLKDR/view
 The demo video is also included in the repo.
